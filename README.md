@@ -11,7 +11,7 @@ Python
 utilizes libraries such as:  
 Pandas for data manipulation  
 Matplotlib for creating charts and graphs  
-Potentially Seaborn for statistical data visualization  
+Seaborn for statistical data visualization  
 
 
 
